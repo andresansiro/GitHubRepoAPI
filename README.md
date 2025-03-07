@@ -13,7 +13,7 @@ This application fetches GitHub repositories for a given user, filters out forke
     ```bash
     java -jar target/quarkus-app/quarkus-run.jar
     ```
-    Access the API at http://localhost:8080/github/{user}/repositories
+    Access the API at http://localhost:8081/github/{user}/repositories
 
 Example Response
 ```bash
